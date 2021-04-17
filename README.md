@@ -19,6 +19,5 @@
 ![](https://komarev.com/ghpvc/?username=cloudy4next&color=yellow)
 
 <p align="center">
-/a>
 <a href="https://kaggle.com/cloudy4next" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shentao" height="30" width="30" /></a>
 </p>
