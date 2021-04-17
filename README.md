@@ -1,13 +1,13 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Machine Learning
+- 🔭 Portfolio ->www.j4h2ir.com
+- 🌱 Blog site ->www.j4h2ir.com/blog
 - 👯 I’m looking to collaborate on ...Open source
 - 🤔 I’m looking for help with ...Open source countribution
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...jahangir7200@live.com
 - 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm just a nerd!
 
 
 
