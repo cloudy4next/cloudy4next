@@ -1,6 +1,6 @@
 
 <h1 align="center">hello | bello | hola | হ্যালো👋 
-
+<h3 align="center">Software Engineer / AI enthusiast</h3>
 ### Contents:
 
 - 🔭 Portfolio                  ->www.j4h2ir.com
@@ -17,3 +17,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=cloudy4next&color=yellow)
+
+<p align="center">
+/a>
+<a href="https://kaggle.com/cloudy4next" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shentao" height="30" width="30" /></a>
+</p>
