@@ -7,7 +7,7 @@
 - 🌱 Blog site                  ->www.j4h2ir.com/blog
 - 🤔 I’m looking for help with  ->Open source countribution
 - 💬 Ask me about               ->anything
-- 📫 How to reach me:           ->জahangir7200@live.com
+- 📫 How to reach me:           ->jahangir7200@live.com
 - ⚡ Fun fact:                  ->I'm just a nerd!
 
 
