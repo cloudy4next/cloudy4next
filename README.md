@@ -1,5 +1,5 @@
 
-<h1 align="center">hello | bello | hola | হ্যালো👋 
+<h1 align="center">hello | bello | hola | হ্যালো 👋 
 <h3 align="center">Software Engineer / AI enthusiast</h3>
 ### Contents:
 
