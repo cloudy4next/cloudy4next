@@ -5,11 +5,9 @@
 
 - 🔭 Portfolio ->www.j4h2ir.com
 - 🌱 Blog site ->www.j4h2ir.com/blog
-- 👯 I’m looking to collaborate on ...Open source
-- 🤔 I’m looking for help with ...Open source countribution
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...jahangir7200@live.com
-- 😄 Pronouns: ...He/him
+- 🤔 I’m looking for help with ->Open source countribution
+- 💬 Ask me about ->anything
+- 📫 How to reach me: ->ahangir7200@live.com
 - ⚡ Fun fact: I'm just a nerd!
 
 
