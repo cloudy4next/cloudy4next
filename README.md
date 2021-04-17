@@ -12,7 +12,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudy4next&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudy4next&show_icons=true&theme=radical&style=flat-square)
 
 
 ![](https://komarev.com/ghpvc/?username=cloudy4next&color=yellow)
