@@ -1,6 +1,7 @@
 
 <h1 align="center">hello | bello | hola | হ্যালো 👋 
 <h3 align="center">Software Engineer / AI enthusiast</h3>
+ [![jahangir 's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/cloudy4next)
 ### Contents:
 
 - 🔭 Portfolio                  ->www.j4h2ir.com
