@@ -4,7 +4,7 @@
 ### Contents:
 
 - 🔭 Portfolio                  ->www.j4h2ir.com
-- 🌱 Blog site                  ->www.dev.to/cloudy4next
+- 🌱 Blog               ->www.dev.to/cloudy4next
 - 🤔 I’m looking for help with  ->Open source countribution
 - 💬 Ask me about               ->anything
 - 📫 How to reach me:           ->jahangir7200@live.com
@@ -21,4 +21,3 @@
 <p align="center">
 <a href="https://kaggle.com/cloudy4next" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shentao" height="30" width="30" /></a>
 </p>
-[![jahangir 's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/cloudy4next)
