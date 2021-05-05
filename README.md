@@ -17,6 +17,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=cloudy4next&color=yellow)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cloudy4next.cloudy4next)
 
 <p align="center">
 <a href="https://kaggle.com/cloudy4next" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shentao" height="30" width="30" /></a>
