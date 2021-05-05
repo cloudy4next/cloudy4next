@@ -4,7 +4,7 @@
 ### Contents:
 
 - 🔭 Portfolio                  ->www.j4h2ir.com
-- 🌱 Blog site                  ->www.j4h2ir.com/blog
+- 🌱 Blog site                  ->dev.to/cloudy4next
 - 🤔 I’m looking for help with  ->Open source countribution
 - 💬 Ask me about               ->anything
 - 📫 How to reach me:           ->jahangir7200@live.com
