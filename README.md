@@ -1,6 +1,6 @@
 
-<h1 align="center"> Learning Spring . So Pain uh, so Pain
-<h3 align="center">Software Engineer / AI enthusiast</h3>
+<h1 align="center"> Learning OPS /AWS
+<h3 align="center">Backend Engineer / AI enthusiast</h3>
 ### Contents:
 
 - 🔭 Portfolio                  ->www.j4h2ir.com
