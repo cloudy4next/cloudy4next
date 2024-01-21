@@ -1,5 +1,5 @@
 
-<h1 align="center"> Learning GoLang
+<h1 align="center"> Learning Java
 <h3 align="center">Backend Engineer / AI enthusiast</h3>
 ### Contents:
 
